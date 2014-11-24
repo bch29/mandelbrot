@@ -11,5 +11,6 @@ Each time you zoom or scroll, the set is recalculated, which may take a long tim
 
 ===
 ### Compiling
-* You may have to edit the makefile to specifify the directories of the SDL2 headers and libraries.
+* You may have to edit the makefile to specify the directories of the SDL2 headers and libraries.
 * Run `make build` from the command line to build, or `make run` to run the program.
+* Tested under Ubuntu 14.04 LT, but should work on any operating system supported by SDL2.
